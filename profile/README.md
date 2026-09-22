@@ -5,9 +5,9 @@
 <p align="center"><strong>Поиск по номеру телефона, email, username, Telegram ID, фотографии и ФИО</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Telegram-бот-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Глаз Бога Telegram бот">
-  <img src="https://img.shields.io/badge/поиск-по_номеру-6D5DFB?style=for-the-badge" alt="Поиск по номеру телефона">
-  <img src="https://img.shields.io/badge/email-username-0F766E?style=for-the-badge" alt="Поиск по email и username">
+  <a href="https://probivtg.pro/?utm_source=github&utm_medium=organic&utm_campaign=glaz-boga-poisk-bot&utm_content=profile-badge&utm_term=telegram-bot&ref=github_glaz-boga-poisk-bot_profile"><img src="https://img.shields.io/badge/Telegram-бот-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Глаз Бога Telegram бот"></a>
+  <a href="https://probivtg.pro/?utm_source=github&utm_medium=organic&utm_campaign=glaz-boga-poisk-bot&utm_content=profile-badge&utm_term=phone-search&ref=github_glaz-boga-poisk-bot_profile"><img src="https://img.shields.io/badge/поиск-по_номеру-6D5DFB?style=for-the-badge" alt="Поиск по номеру телефона"></a>
+  <a href="https://probivtg.pro/?utm_source=github&utm_medium=organic&utm_campaign=glaz-boga-poisk-bot&utm_content=profile-badge&utm_term=email-username&ref=github_glaz-boga-poisk-bot_profile"><img src="https://img.shields.io/badge/email-username-0F766E?style=for-the-badge" alt="Поиск по email и username"></a>
 </p>
 
 **Глаз Бога** — сервис для поиска информации через Telegram-бота. В качестве исходного запроса можно использовать номер телефона, адрес электронной почты, ник, Telegram ID, фотографию или ФИО. Бот сопоставляет найденные связи и показывает данные в одном месте, чтобы не искать их вручную на десятках отдельных страниц.
